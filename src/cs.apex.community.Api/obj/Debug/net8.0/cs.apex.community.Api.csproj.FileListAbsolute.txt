@@ -1,0 +1,13 @@
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\bin\Debug\net8.0\cs.apex.community.Api.deps.json
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\bin\Debug\net8.0\cs.apex.community.Api.dll
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\bin\Debug\net8.0\cs.apex.community.Api.pdb
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.csproj.AssemblyReference.cache
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.AssemblyInfoInputs.cache
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.AssemblyInfo.cs
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.csproj.CoreCompileInputs.cache
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.sourcelink.json
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.dll
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\refint\cs.apex.community.Api.dll
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\cs.apex.community.Api.pdb
+D:\Projekte\cs.apex.community.cs\src\cs.apex.community.Api\obj\Debug\net8.0\ref\cs.apex.community.Api.dll

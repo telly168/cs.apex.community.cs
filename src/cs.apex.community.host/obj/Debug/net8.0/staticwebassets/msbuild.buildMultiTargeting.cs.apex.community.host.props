@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cs.apex.community.host.props" />
+</Project>
